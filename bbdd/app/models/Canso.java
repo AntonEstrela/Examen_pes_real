@@ -2,6 +2,7 @@ package models;
 
 import play.db.jpa.Model;
 
+import javax.persistence.CascadeType;
 import javax.persistence.Entity;
 import javax.persistence.ManyToMany;
 import java.util.ArrayList;
@@ -13,7 +14,7 @@ public class Canso extends Model {
     private int data; //Any de creacio
     private String lletra;
 
-    @ManyToMany
+    @ManyToMany (cascade = CascadeType.ALL, mappedBy = "cantants")
     List<Cantant> cantants = new ArrayList<Cantant>();
 
 
