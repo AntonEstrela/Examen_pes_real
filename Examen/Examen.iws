@@ -2,12 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a7e678c4-64f5-4255-b04d-3b3b80df5f30" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/app/controllers/Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/models/Atraccio.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/models/Visitant.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../bbdd/app/models/Canso.java" beforeDir="false" afterPath="$PROJECT_DIR$/../bbdd/app/models/Canso.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/models/Alumne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/models/Comentari.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Examen.iws" beforeDir="false" afterPath="$PROJECT_DIR$/Examen.iws" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/controllers/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/controllers/Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/models/Atraccio.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/models/Visitant.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/views/Application/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/Application/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/bytecode/DEV/_app_views_Application_index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/bytecode/DEV/_app_views_Application_index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/bytecode/DEV/controllers.Application" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/bytecode/DEV/controllers.Application" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/classes/controllers/Application.class" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/classes/controllers/Application.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,19 +67,52 @@
       <option name="presentableId" value="Default" />
       <updated>1576166899400</updated>
     </task>
+    <task id="LOCAL-00001" summary="more files">
+      <created>1576185498372</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1576185498373</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="more files" />
+    <option name="LAST_COMMIT_MESSAGE" value="more files" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="830" y="425" key="Github.ShareDialog" timestamp="1576185351815">
+    <state x="693" y="275" width="534" height="503" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1576234466243">
       <screen x="0" y="0" width="1920" height="1049" />
     </state>
-    <state x="830" y="425" key="Github.ShareDialog/0.0.1920.1049@0.0.1920.1049" timestamp="1576185351814" />
+    <state x="693" y="275" width="534" height="503" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1049@0.0.1920.1049" timestamp="1576234466243" />
+    <state x="601" y="124" width="718" height="805" key="CommitChangelistDialog2" timestamp="1576185496599">
+      <screen x="0" y="0" width="1920" height="1049" />
+    </state>
+    <state x="601" y="124" width="718" height="805" key="CommitChangelistDialog2/0.0.1920.1049@0.0.1920.1049" timestamp="1576185496599" />
+    <state x="830" y="425" key="Github.ShareDialog" timestamp="1576240698766">
+      <screen x="0" y="0" width="1920" height="1049" />
+    </state>
+    <state x="830" y="425" key="Github.ShareDialog/0.0.1920.1049@0.0.1920.1049" timestamp="1576240698766" />
+    <state x="555" y="260" width="810" height="532" key="Vcs.Push.Dialog.v2" timestamp="1576185502204">
+      <screen x="0" y="0" width="1920" height="1049" />
+    </state>
+    <state x="555" y="260" width="810" height="532" key="Vcs.Push.Dialog.v2/0.0.1920.1049@0.0.1920.1049" timestamp="1576185502204" />
     <state x="768" y="444" width="383" height="164" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1576184126336">
       <screen x="0" y="0" width="1920" height="1049" />
     </state>
     <state x="768" y="444" width="383" height="164" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1049@0.0.1920.1049" timestamp="1576184126336" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/app/controllers/Application.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
